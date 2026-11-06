@@ -1,0 +1,6 @@
+[submodule "lib/spark-std"]
+	path = lib/spark-std
+	url = https://github.com/bchainhub/spark-std
+[submodule "lib/openzeppelin-contracts"]
+	path = lib/openzeppelin-contracts
+	url = https://github.com/bchainhub/openzeppelin-contracts
